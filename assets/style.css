@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
     --card-front-color: #144480;
-    --card-back-color: #f40000e8;
+    --card-back-color: #5c0606e8;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
 
@@ -82,7 +82,7 @@ body {
 }
 
 footer {
-    background-color: #5f057a;
+    background-color: #000000;
     color: #5f057a;
     position: fixed;
     bottom: 0;
